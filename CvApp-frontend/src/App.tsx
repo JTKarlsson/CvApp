@@ -1,10 +1,10 @@
 import './styles/styles.scss';
 
-export const App = ()  => {
+export const App = () => {
 
   return (
-    <div>
-      punaista näkyy
-    </div>
+    <>
+      <h1>CvApp</h1>
+    </>
   )
 };
