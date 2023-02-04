@@ -1,0 +1,4 @@
+interfaceOnly: true
+delegatePattern: true
+apiPackage: fi.jonikarlsson.CvAppbackend.api.generated
+modelPackage: org.openapitools.api.model
